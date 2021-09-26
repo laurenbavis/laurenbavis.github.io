@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://laurenbavis.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://lauren.bavis.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://laurenbavis.github.io/</loc>
+<loc>https://lauren.bavis.org/</loc>
 </url>
 <url>
-<loc>https://laurenbavis.github.io/about-me.html</loc>
+<loc>https://lauren.bavis.org/about-me.html</loc>
 <lastmod>2021-09-26T13:38:08-04:00</lastmod>
 <image:image>
-<image:loc>https://laurenbavis.github.io/media/posts/4/bavis-interview.JPG</image:loc>
+<image:loc>https://lauren.bavis.org/media/posts/4/bavis-interview.JPG</image:loc>
 <image:title><![CDATA[Lauren Bavis recording an interview with a source for a story on Black maternal mortality rates.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://laurenbavis.github.io/contact.html</loc>
+<loc>https://lauren.bavis.org/contact.html</loc>
 <lastmod>2021-09-26T14:22:53-04:00</lastmod>
 </url>
 <url>
-<loc>https://laurenbavis.github.io/hi-im-lauren.html</loc>
+<loc>https://lauren.bavis.org/hi-im-lauren.html</loc>
 <lastmod>2021-09-26T14:21:54-04:00</lastmod>
 <image:image>
-<image:loc>https://laurenbavis.github.io/media/posts/1/Lauren-Bavis-headshot-2.jpg</image:loc>
+<image:loc>https://lauren.bavis.org/media/posts/1/Lauren-Bavis-headshot-2.jpg</image:loc>
 <image:title><![CDATA[Lauren Bavis' headshot]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://laurenbavis.github.io/recent-work.html</loc>
+<loc>https://lauren.bavis.org/recent-work.html</loc>
 <lastmod>2021-09-26T14:33:00-04:00</lastmod>
 <image:image>
-<image:loc>https://laurenbavis.github.io/media/posts/2/podcast-album-art-NEW.jpg</image:loc>
+<image:loc>https://lauren.bavis.org/media/posts/2/podcast-album-art-NEW.jpg</image:loc>
 <image:title><![CDATA[Sick podcast art]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://laurenbavis.github.io/media/posts/2/jordan-sign-pic-d8a46a3c7a791e1138c4935040d631abfb53163b-s1600-c85.jpg</image:loc>
+<image:loc>https://lauren.bavis.org/media/posts/2/jordan-sign-pic-d8a46a3c7a791e1138c4935040d631abfb53163b-s1600-c85.jpg</image:loc>
 <image:title><![CDATA[A sign outside the formerly-named Jordan Hall on Indiana University's campus]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://laurenbavis.github.io/media/posts/2/npr.brightspotcdn.com.jpg</image:loc>
+<image:loc>https://lauren.bavis.org/media/posts/2/npr.brightspotcdn.com.jpg</image:loc>
 <image:title><![CDATA[Signs in English and Spanish near a COVID-19 testing site in Goshen, Indiana.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://laurenbavis.github.io/media/posts/2/group-homes.jpg</image:loc>
+<image:loc>https://lauren.bavis.org/media/posts/2/group-homes.jpg</image:loc>
 <image:title><![CDATA[Sage Wright, left, and Mikaela Coppedge, right, stand outside Stone Belt, a nonprofit that supports people with intellectual and developmental disabilities. Coppedge lives and Wright works at Blackstone House, one of Stone Belt's group homes.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://laurenbavis.github.io/resume.html</loc>
+<loc>https://lauren.bavis.org/resume.html</loc>
 <lastmod>2021-09-26T13:58:15-04:00</lastmod>
 </url>
 </urlset>
